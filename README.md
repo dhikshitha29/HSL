@@ -3,8 +3,10 @@ To understand the exact context of the symbolic expressions of deaf and dumb per
 ASL (American Sign Language) is used to detect and predict the hand signs of the deaf and dumb person.
 ASL is a complete, natural language that has the same linguistic properties as spoken languages, with grammar that differs from English. 
 ASL is expressed by movements of the hands and face.
-          
-            CNN Architecture - Model Building and Training 
+
+ CNN Architecture - Model Building and Training 
+                                        
+                      Dataset:https://drive.google.com/drive/folders/1AsINuT2OAHplH16Cc8nG4QdjRAK_5erp?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/87489254/230123102-e1aef6da-d3ad-4a51-b2e7-fd90a32d66e4.png)
 
